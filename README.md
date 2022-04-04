@@ -11,7 +11,7 @@
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gezish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gezish)](https://github.com/gezish/github-readme-stats)
-[![<Cooming Bages>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+[github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 <!---
 gezish/gezish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
