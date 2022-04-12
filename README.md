@@ -1,3 +1,21 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gezahegne-wondachew-alem-9267a4122/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="twitter.com/Gezaheg51588128">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=gezish&style=flat-square&color=blue" alt=""/><p>
+
+
 - 👋 Hi, I’m Gezahegne Wondachew (MSc Computer Scince Student)
 - 👀 I’m interested in Software Development, AI, Machine Learning
 - 🌱 Currently I am learning Proffessional Software Development, and   
