@@ -13,24 +13,20 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=gezish&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1><p>
 
-  
-
-- 👋 Hi, I’m Gezahegne Wondachew (MSc Computer Scince Student)
+- 👋 Hi, I’m Gezahegne Wondachew
 - 🎓 &nbsp;I have a Msters of Scince Degree in Computer Science Admass University.
-- 🎓 &nbsp;I have studied Bachelor's Degree in Electrical Communication Engineering atAdama Scince and Technology University.
-- 🎓 &nbsp;I am on three months  intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🎓 &nbsp;I have Bachelor of Science Degree in Electrical Communication Engineering from Adama Scince and Technology University.
+- 🎓 &nbsp;I am on three months  Intensive Training in Machine Learning Engineering and Data Engineering at 10Academy.
+- 🔭 &nbsp;I’m currently working on something very interested :wink:
 - 🌱 &nbsp;I’m currently learning Kafka
 - 💬 &nbsp;Ask me about Python, TypeScript and NLP
 - 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
-- ⚡ &nbsp;Fun fact: I love to play ♟️ and ▦
 - 📫 Any one interested can reach me through enggezahegn.w@gmail.com
 
 <p align="center">
@@ -59,21 +55,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
-
-
-
-I am a Machine Learning Engineer with a Software Engineering background. I am passionate about all things technology, and I love to learn new things. Currently, I am looking for job opportunities in the area of Machine learning.
-
-
-## My top open source projects
+## What is it all about 👁
+## Top open source projects I have been through:
 <p align="left">
-  <a href="https://github.com/eandualem/PythonLidar"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PythonLidar&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/eandualem/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/abtest-mlops"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/PharmaceuticalSalesPrediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/telecom_analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/eandualem/Amharic-to-ESL-Translator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  <a href="https://github.com/gezish/Predicting-Fraudulent-Transactions"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PythonLidar&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/gezish/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/AB-Hypothesis-Testing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>    
+  
+  <a href="https://github.com/gezish/Fake-News-Detection-Coding-Challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
-
+<a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
 <p align="left">
-  <a href="https://github.com/eandualem?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
+  <a href="https://github.com/gezish?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
 </p>
 
 ## Top projects I've contributed to
