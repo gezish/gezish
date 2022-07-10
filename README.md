@@ -22,7 +22,7 @@
 - 👋 Hi, I’m Gezahegne Wondachew
 - 🎓 &nbsp;I have a Msters of Scince Degree in Computer Science Admass University.
 - 🎓 &nbsp;I have Bachelor of Science Degree in Electrical Communication Engineering from Adama Scince and Technology University.
-- 🎓 &nbsp;I am on three months  Intensive Training in Machine Learning Engineering and Data Engineering at 10Academy.
+- 🎓 &nbsp;I am on Six months  Intensive Training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🔭 &nbsp;I’m currently working on something very interested :wink:
 - 🌱 &nbsp;I’m currently learning Kafka
 - 💬 &nbsp;Ask me about Python, TypeScript and NLP
@@ -30,7 +30,7 @@
 - 📫 Any one interested can reach me through enggezahegn.w@gmail.com
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
+ &nbsp;<i><b>Git Activity</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gezish&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gezish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p> 
@@ -59,8 +59,6 @@
 ## Top open source projects I have been through:
 <p align="left">
   <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-
-  <a href="https://github.com/gezish/Predicting-Fraudulent-Transactions"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
   <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PythonLidar&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/gezish/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/AB-Hypothesis-Testing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
