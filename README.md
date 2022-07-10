@@ -61,10 +61,10 @@
   <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=telecom_analytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 
   <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PythonLidar&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/gezish/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/AB-Hypothesis-Testing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
+  <a href="https://github.com/gezish/Twitter-Data-Analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Twitter-Data-Analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/AB-Hypothesis-Testing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=abtest-mlops&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=PharmaceuticalSalesPrediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/Fake-News-Detection-Coding-Challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
-<a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=eandualem&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 <p align="left">
   <a href="https://github.com/gezish?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
@@ -119,11 +119,11 @@
 
 ## GitHub Analytics
 <p align="center">
-  <a href="https://github.com/eandualem">
+  <a href="https://github.com/gezish">
     <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eandualem&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=eandualem&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=gezish&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
   </a>
-  <a href="https://github.com/eandualem"><img alt="eandualem's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=eandualem&theme=react-dark&hide_border=true" /></a>
+  <a href="https://github.com/eandualem"><img alt="gezish's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=gezish&theme=react-dark&hide_border=true" /></a>
 </p>
 
 
@@ -137,14 +137,14 @@
 
 ## Where to find me
 <p align="left">
-  <a href="https://www.linkedin.com/in/elias-andualem-94a9a7195/"><img src="https://img.shields.io/badge/-Elias%20Andualem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:eandualem@gmail.com"><img src="https://img.shields.io/badge/-eandualem@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/elias-andualem-94a9a7195/](https://www.linkedin.com/in/gezahegne-wondachew-alem-9267a4122/)"><img src="https://img.shields.io/badge/-Gezahegne%20Wondachew-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:enggezahegn.w@gmail.com"><img src="https://img.shields.io/badge/-enggezahegn.w@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ## Watch my contribution graph eaten by the snake🐍
-![eandualem snake gif](https://github.com/eandualem/eandualem/blob/output/github-contribution-grid-snake.svg)
+![gezish snake gif](https://github.com/gezish/gezish/blob/output/github-contribution-grid-snake.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eandualem" alt="eandualem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gezish" alt="gezish" /> </p>
 
 
 
