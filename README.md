@@ -32,10 +32,10 @@
 <p align="center">
  &nbsp;<i><b>Git Activity</b></i></p>
  
-<--
+-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gezish&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gezish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p> 
--->
+<--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gezish)](https://github.com/gezish/github-readme-stats)
 <p>Language Tools: </p>
@@ -61,20 +61,20 @@
 ## Top open source projects I have been through:
 <p align="left">
   <a href="https://github.com/gezish/TellCo-UserDataAnalytics">(https://github.com/gezish/causal_inference_using_ml)"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=TellCo-UserDataAnalytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=pharma_sales_pridiction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
+  <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=pharma_sales_pridiction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/gezish/E2E_Web3_dApps_Algorand"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=E2E_Web3_dApps_Algorand&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=USGS_3DEP_Python_LIDAR&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=causal_inference_using_ml&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/Speech_to_text_data_pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Speech_to_text_data_pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-
+  <--
 </p>
-<a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=causal_inference_using_ml&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
-
 <p align="left">
   <a href="https://github.com/gezish?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
 </p>
-
+-->
 ## Top projects I've contributed to
 <p align="left">
   <a href="https://github.com/10acad-group3/speech_recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=10acad-group3&repo=speech_recognition&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
