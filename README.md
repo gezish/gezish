@@ -32,8 +32,9 @@
 <p align="center">
  &nbsp;<i><b>Git Activity</b></i></p>
  
-<--
+<!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gezish&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></p>
+
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gezish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></p> 
 -->
 
@@ -67,7 +68,7 @@
   <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=USGS_3DEP_Python_LIDAR&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=causal_inference_using_ml&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/Speech_to_text_data_pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Speech_to_text_data_pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <--
+  <!--
 </p>
 <a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
