@@ -77,6 +77,7 @@
   <a href="https://github.com/gezish?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
 </p>
 -->
+  
 ## Top projects I've contributed to
 <p align="left">
   <a href="https://github.com/Reiten-10Academy/Speech_to_text_data_pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Reiten-10Academy&repo=Speech_to_text_data_pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -90,12 +91,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-<!--
+
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![GO](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
--->
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 -->
+
 #### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
@@ -151,12 +153,12 @@
   <a href="[https://www.linkedin.com/in/elias-andualem-94a9a7195/](https://www.linkedin.com/in/gezahegne-wondachew-alem-9267a4122/)"><img src="https://img.shields.io/badge/-Gezahegne%20Wondachew-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:enggezahegn.w@gmail.com"><img src="https://img.shields.io/badge/-enggezahegn.w@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
--->
+
 ## Watch my contribution graph eaten by the snake🐍
 ![gezish snake gif](https://github.com/gezish/gezish/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezish" alt="gezish" /> </p>
-
+-->
 
 
 
