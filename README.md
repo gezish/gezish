@@ -69,7 +69,9 @@
   <a href="https://github.com/gezish/USGS_3DEP_Python_LIDAR"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=USGS_3DEP_Python_LIDAR&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=causal_inference_using_ml&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
   <a href="https://github.com/gezish/Speech_to_text_data_pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Speech_to_text_data_pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <!--
+  <a href="https://github.com/gezish/Online-Voting-System-OVS"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Online-Voting-System-OVS&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+
+<!--
 </p>
 <a href="https://github.com/gezish/causal_inference_using_ml"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Amharic-to-ESL-Translator&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
@@ -79,6 +81,7 @@
 -->
   
 ## Top projects I've contributed to
+  
 <p align="left">
   <a href="https://github.com/Reiten-10Academy/Speech_to_text_data_pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Reiten-10Academy&repo=Speech_to_text_data_pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/African-language-Speech-Recognition/african_language-Speech_Recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=African-language-Speech-Recognition&repo=african_language-Speech_Recognition&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
@@ -140,30 +143,11 @@
 
 
 ## Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [End-to-End Web3 dApps(Part-one)](https://medium.com/@enggezahegn.w/end-to-end-web3-dapps-certificate-generation-distribution-and-value-transfer-with-algorand-nfts-e8c83f0dd8c)
 - [Pharmaceutical Sales Prediction Across Multiple Stores](https://medium.com/@enggezahegn.w/pharmaceutical-sales-prediction-across-multiple-stores-99a254933024)
 - [African language Speech Recognition (Speech-to-Text)](https://medium.com/@enggezahegn.w/african-language-speech-recognition-speech-to-text-4d96443279bb)
 - [Twitter-Data-Analysis](https://medium.com/@enggezahegn.w/twitter-data-analysis-280d4e21cb9c)
 <!-- BLOG-POST-LIST:END -->
-<!--
-## Where to find me
-<p align="left">
-  <a href="[https://www.linkedin.com/in/elias-andualem-94a9a7195/](https://www.linkedin.com/in/gezahegne-wondachew-alem-9267a4122/)"><img src="https://img.shields.io/badge/-Gezahegne%20Wondachew-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:enggezahegn.w@gmail.com"><img src="https://img.shields.io/badge/-enggezahegn.w@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-## Watch my contribution graph eaten by the snake🐍
-![gezish snake gif](https://github.com/gezish/gezish/blob/output/github-contribution-grid-snake.svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gezish" alt="gezish" /> </p>
--->
 
 
-
-
-<!---
-gezish/gezish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
