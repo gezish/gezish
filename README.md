@@ -20,13 +20,11 @@
 </h1><p>
 
 - 👋 Hi, I’m Gezahegne Wondachew
-- 🎓 &nbsp;I have a MSc. Degree in Computer Science Admass University.
-- 🎓 &nbsp;I have BSc. Degree in Electrical Communication Engineering from Adama Scince and Technology University.
-- 🎓 &nbsp;I am on Six months  Intensive Training in Machine Learning Engineering and Data Engineering at 10Academy.
-- 🔭 &nbsp;I’m currently working on something very interested :wink:
-- 🌱 &nbsp;I’m currently learning Kafka
+- 🎓 &nbsp;I have a MSc. Degree in Computer Science from Admass University.
+- 🎓 &nbsp;I have a BSc. Degree in Electrical Communication Engineering from Adama Scince and Technology University.
+- 🎓 &nbsp;I am on Thee months  Intensive Training in Machine Learning Engineering, Data Engineering and Web3 at 10Academy.
 - 💬 &nbsp;Ask me about Python, TypeScript and NLP
-- 🥅 &nbsp;2021 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
 - 📫 Any one interested can reach me through enggezahegn.w@gmail.com
  
 ## Language Tools
@@ -82,14 +80,17 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
+
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
 
