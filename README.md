@@ -24,7 +24,7 @@
 - 🎓 &nbsp;I have a BSc. Degree in `Electrical Communication Engineering` from Adama Scince and Technology University.
 - 🎓 &nbsp;I am on Thee months  Intensive Training in   `Machine Learning Engineering`, `Data Engineering` and `Web3` at `10Academy`.
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
-- 📫 Any one interested can reach me through `enggezahegn.w@gmail.com`
+- 📫 Any one interested can reach me through enggezahegn.w@gmail.com
  
 ## Language Tools
 <div>
