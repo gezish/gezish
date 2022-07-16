@@ -20,7 +20,7 @@
 </h1><p>
 
 - 👋 Hi, I’m Gezahegne Wondachew
-- 🎓 &nbsp;I have a Msters of Scince Degree in Computer Science Admass University.
+- 🎓 &nbsp;I have a MSc. Degree in Computer Science Admass University.
 - 🎓 &nbsp;I have Bachelor of Science Degree in Electrical Communication Engineering from Adama Scince and Technology University.
 - 🎓 &nbsp;I am on Six months  Intensive Training in Machine Learning Engineering and Data Engineering at 10Academy.
 - 🔭 &nbsp;I’m currently working on something very interested :wink:
