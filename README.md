@@ -26,26 +26,7 @@
 - 🥅 &nbsp;2022 Goals: Contribute more to Open Source projects
 - 📫 Any one interested can reach me through enggezahegn.w@gmail.com
  
-## Language Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
-## What is it all about 👁
+ ## What is it all about 👁
 ## Top open source projects I have been through:
 <p align="left">
   <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=TellCo-UserDataAnalytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
@@ -64,6 +45,14 @@
   <a href="https://github.com/African-language-Speech-Recognition/african_language-Speech_Recognition"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=African-language-Speech-Recognition&repo=african_language-Speech_Recognition&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
   <a href="https://github.com/AB-Hypothesis-Testing/AB-Testing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AB-Hypothesis-Testing&repo=AB-Testing&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
 </p>
+ ## GitHub Analytics
+<p align="center">
+  <a href="https://github.com/gezish">
+    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gezish&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=gezish&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
+  </a>
+  <a href="https://github.com/gezish"><img alt="gezish's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=gezish&theme=react-dark&hide_border=true" /></a>
+</p>
 
 ## Tech Stack
 #### Technologies
@@ -73,18 +62,16 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 
-
 #### Frameworks/Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=Spark)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-05122A?style=flat&logo=scikit%20learn)&nbsp;
-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=Flask)&nbsp;
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=Pytest)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=Express)&nbsp;
@@ -99,7 +86,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Cloud Firestore](https://img.shields.io/badge/-Cloud%20Firestore-05122A?style=flat&logo=Cloud%20Firestore)&nbsp;
-
 #### Tools
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat&logo=MLflow)&nbsp;
 ![Airflow](https://img.shields.io/badge/-Airflow-05122A?style=flat&logo=Airflow)&nbsp;
@@ -107,26 +93,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![github actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=GitHub%20Actions)&nbsp;
 ![Travis%20CI](https://img.shields.io/badge/-Travis%20CI-05122A?style=flat&logo=Travis%20CI)&nbsp;
-
-## GitHub Analytics
-<p align="center">
-  <a href="https://github.com/gezish">
-    <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gezish&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D"/>
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=gezish&theme=black-ice&hide_border=true&stroke=0000&background=060B0D">
-  </a>
-  <a href="https://github.com/gezish"><img alt="gezish's Activity Graph"  width="804px" src="https://activity-graph.herokuapp.com/graph?username=gezish&theme=react-dark&hide_border=true" /></a>
-</p>
-
-
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [End-to-End Web3 dApps(Part-one)](https://medium.com/@enggezahegn.w/end-to-end-web3-dapps-certificate-generation-distribution-and-value-transfer-with-algorand-nfts-e8c83f0dd8c)
 - [Pharmaceutical Sales Prediction Across Multiple Stores](https://medium.com/@enggezahegn.w/pharmaceutical-sales-prediction-across-multiple-stores-99a254933024)
 - [African language Speech Recognition (Speech-to-Text)](https://medium.com/@enggezahegn.w/african-language-speech-recognition-speech-to-text-4d96443279bb)
 - [Twitter-Data-Analysis](https://medium.com/@enggezahegn.w/twitter-data-analysis-280d4e21cb9c)
-
-
-
 
 <!-- BLOG-POST-LIST:END -->
 
