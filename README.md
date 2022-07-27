@@ -124,6 +124,7 @@
 - [Pharmaceutical Sales Prediction Across Multiple Stores](https://medium.com/@enggezahegn.w/pharmaceutical-sales-prediction-across-multiple-stores-99a254933024)
 - [African language Speech Recognition (Speech-to-Text)](https://medium.com/@enggezahegn.w/african-language-speech-recognition-speech-to-text-4d96443279bb)
 - [Twitter-Data-Analysis](https://medium.com/@enggezahegn.w/twitter-data-analysis-280d4e21cb9c)
+<!--  
 ### Repository Structures
 
 ```mermaid
@@ -144,7 +145,7 @@
       
       
 ```
-
+-->
 
 
 <!-- BLOG-POST-LIST:END -->
