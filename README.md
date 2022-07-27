@@ -124,28 +124,8 @@
 - [Pharmaceutical Sales Prediction Across Multiple Stores](https://medium.com/@enggezahegn.w/pharmaceutical-sales-prediction-across-multiple-stores-99a254933024)
 - [African language Speech Recognition (Speech-to-Text)](https://medium.com/@enggezahegn.w/african-language-speech-recognition-speech-to-text-4d96443279bb)
 - [Twitter-Data-Analysis](https://medium.com/@enggezahegn.w/twitter-data-analysis-280d4e21cb9c)
-<!--  
-### Repository Structures
 
-```mermaid
-  graph TD;
-      Projects--> Data_Engineering;
-      Projects--> Machine_Learning;
-      Projects--> Web3;
-      Data_Engineering--> Speech_to_text_data_pipeline; USGS_3DEP_Python_LIDAR;
-      Data_Engineering--> USGS_3DEP_Python_LIDAR;
-      Machine_Learning-->causal_inference_using_ml; 
-      Machine_Learning-->pharma_sales_pridiction;
-      Machine_Learning-->african_language-Speech_Recognition-1;
-      Machine_Learning-->AB-Testing;
-      Machine_Learning-->TellCo-UserDataAnalytics;
-      Machine_Learning-->Twitter-Data-Analysis;
-      Web3-->E2E_Web3_dApps_Algorand ;
-     
-      
-      
-```
--->
+
 
 
 <!-- BLOG-POST-LIST:END -->
