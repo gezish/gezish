@@ -29,7 +29,7 @@
  ## What is it all about 👁
 ## Top open source projects I have been through:
 <p align="left">
-  <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=TellCo-UserDataAnalytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=Data-Shipping-to-Analytical-API&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/gezish/TellCo-UserDataAnalytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=TellCo-UserDataAnalytics&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/gezish/pharma_sales_pridiction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=pharma_sales_pridiction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/gezish/E2E_Web3_dApps_Algorand"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=gezish&repo=E2E_Web3_dApps_Algorand&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a> 
